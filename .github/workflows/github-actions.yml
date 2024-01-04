@@ -23,4 +23,4 @@ jobs:
         with:
           context: "./testdir"
           push: true
-          ags: dejanualex/test:1.0
+          tags: dejanualex/test:1.0
